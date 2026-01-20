@@ -79,17 +79,17 @@ the **factors influencing severity**, **temporal trends**, and **weather-related
 
 ### Severity Distribution
 <p align="center">
-  <img src="outputs/graphs/severity_distribution.png" width="600">
+  <img src="/data/outputs/graphs/severity_distribution.png" width="600">
 </p>
 
 ### Top 10 Most Accident-Prone States
 <p align="center">
-  <img src="outputs/graphs/top10_states.png" width="600">
+  <img src="/data/outputs/graphs/top10_states.png" width="600">
 </p>
 
 ### Top 10 Weather Conditions
 <p align="center">
-  <img src="outputs/graphs/top10_weather_conditions.png" width="600">
+  <img src="/data/outputs/graphs/top10_weather_conditions.png" width="600">
 </p>
 
 ### Severity by Weather Condition (Top 12)
